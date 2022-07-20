@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abhinav-Skil/Monsters-relodex.git/static/css/main.7d6b42ce.css",
+    "main.js": "/Abhinav-Skil/Monsters-relodex.git/static/js/main.434638a3.js",
+    "static/js/787.beb4f762.chunk.js": "/Abhinav-Skil/Monsters-relodex.git/static/js/787.beb4f762.chunk.js",
+    "index.html": "/Abhinav-Skil/Monsters-relodex.git/index.html",
+    "main.7d6b42ce.css.map": "/Abhinav-Skil/Monsters-relodex.git/static/css/main.7d6b42ce.css.map",
+    "main.434638a3.js.map": "/Abhinav-Skil/Monsters-relodex.git/static/js/main.434638a3.js.map",
+    "787.beb4f762.chunk.js.map": "/Abhinav-Skil/Monsters-relodex.git/static/js/787.beb4f762.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d6b42ce.css",
+    "static/js/main.434638a3.js"
+  ]
+}
